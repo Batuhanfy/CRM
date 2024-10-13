@@ -29,13 +29,6 @@ Bu proje, müşteri ilişkileri yönetimi (CRM) amacıyla geliştirilmiş bir si
 - **Kullanıcı Rolleri:** Admin, müşteri, proje yöneticisi gibi farklı roller atanabilir.
 - **Profil Güncelleme:** Kullanıcılar kendi profil bilgilerini düzenleyebilir.
 
-### 6. Bildirim Yönetimi
-- **Proje Bildirimleri:** Proje aşamalarıyla ilgili kullanıcılara bildirim gönderilir.
-- **Ödeme Bildirimleri:** Ödeme tarihleri için hatırlatmalar gönderilir.
-
-### 7. Destek Talepleri
-- **Hızlı Destek:** Kullanıcılar anında çözüm talepleri oluşturabilir.
-- **Taleplerin Takibi:** Her destek talebinin durumu takip edilir ve çözümlenir.
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Frontend:** HTML, CSS, JavaScript
